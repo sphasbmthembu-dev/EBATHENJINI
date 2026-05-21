@@ -26,15 +26,12 @@ EBATHENJINI/
 │   ├── screens/             # Different app screens
 │   │   ├── __init__.py
 │   │   ├── home_screen.py
-│   │   ├── memory_screen.py
-│   │   └── gallery_screen.py
+│   │   └── memory_screen.py
 │   ├── database/            # Database operations
 │   │   ├── __init__.py
 │   │   └── db_manager.py
 │   ├── assets/              # Images, icons, fonts
-│   │   ├── images/
-│   │   ├── icons/
-│   │   └── styles.kv
+│   │   └── images/
 │   └── utils/               # Utility functions
 │       ├── __init__.py
 │       └── helpers.py
