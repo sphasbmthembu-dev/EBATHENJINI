@@ -64,6 +64,18 @@ venv.bak/
 *.db
 *.sqlite3
 
+# Backups
+backups/
+*.bak
+
 # Environment variables
 .env
 .env.local
+
+# Exported files
+*.pdf
+*.csv
+
+# Cache
+.kivy/
+*.kv.bak
